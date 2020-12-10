@@ -1,7 +1,7 @@
 ## 소개
 - 이름: 정지홍
 - E-mail: jjh1731@naver.com
-- GitHub: https://github.com/JeongJihong
+- GitHub: github.com/JeongJihong
 
 ## 학력
 - 부산대학교 전기컴퓨터공학부 정보컴퓨터공학전공
@@ -22,4 +22,3 @@
 ### Process
 - 커뮤니케이션: Slack
 - 버전관리: Git
-
