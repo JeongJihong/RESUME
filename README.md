@@ -3,9 +3,6 @@
 - E-mail: jjh1731@naver.com
 - GitHub: [github.com/JeongJihong](https://github.com/JeongJihong)
 
-## 학력
-- 부산대학교 전기컴퓨터공학부 정보컴퓨터공학전공(2016.03 ~ 2020.08)
-
 ## 보유 기술
 - C/C++
   - Stack, LinkedList, Tree 등의 자료구조를 활용한 문제 해결 능력을 가지고 있음. MFC를 활용한 음악 관리 시스템에서 MySQL과 연동하여 데이터를 불러오고, MFC에서 보여주는 프로그램 구현
@@ -30,6 +27,9 @@
 ### Process
 - 커뮤니케이션: Slack
 - 버전관리: Git
+
+## 학력
+- 부산대학교 전기컴퓨터공학부 정보컴퓨터공학전공(2016.03 ~ 2020.08)
 
 ## 보유 자격증
 - 정보처리기사(2019.11)
