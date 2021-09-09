@@ -25,7 +25,7 @@
 - Visual Studio Code
 - IntelliJ
 ### Process
-- 커뮤니케이션: Slack
+- 커뮤니케이션: Slack, Notion
 - 버전관리: Git
 
 ## 학력
